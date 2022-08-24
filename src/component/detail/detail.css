@@ -1,0 +1,12 @@
+.detail {
+    width: 50%;
+    padding: 5px;
+}
+.detail div {
+    padding: 25px;
+}
+
+.popfile {
+    width: 100%;
+    border-radius: 5%;
+}

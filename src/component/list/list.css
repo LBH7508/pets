@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    flex-wrap : wrap;
+    gap: 2px;
+    background-color: #f2f2f2;
+}
+
+.detail+.list {
+    width: 40%;
+    
+}
+
+.detail+.list .item {
+    width: 100%;
+}

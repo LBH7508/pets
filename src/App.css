@@ -1,0 +1,10 @@
+
+.app {
+    display: flex;
+    
+}
+
+@media (max-width: 580px){
+    .app {flex-direction: column;}
+    .detail { width:100%;}
+}
